@@ -623,4 +623,20 @@ font-weight:bold;
 text-align:right; 
 padding:5px;
 }
+    #buttonOutside {
+      box-sizing: border-box;
+      width: 200px;
+      height: 30px;
+      font-size: 14;
+      font-weight: 400;
+      font-style: normal;
+      background-color: rgba(127, 255, 212, 0.3);
+      margin: 4px;
+      border-radius: 6px;
+    }
 
+    #buttonOutside:hover {
+      background-color: rgba(127, 255, 212, 0.9);
+    }
+
+    #buttonOutside:focus {}
