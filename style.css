@@ -181,6 +181,17 @@ body {
   cursor: pointer;
 }
 
+.el__info {
+  font-size: 40px;
+  color: #2d2d2d;
+  position: absolute;
+  bottom: 20px;
+}
+
+ul.no-bullets {
+  list-style-type: none;
+}
+
 .el.s--active .el__close-btn {
   z-index: 5;
   opacity: 1;
