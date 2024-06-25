@@ -465,3 +465,13 @@ ul.no-bullets {
   left: auto;
   right: 5px;
 }
+
+a:link,
+a:visited {
+  color: #2d2d2d;
+}
+
+a:hover,
+a:active {
+  color: #b15003;
+}
